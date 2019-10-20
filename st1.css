@@ -1,0 +1,39 @@
+.center{
+color:white;
+text-align:center;
+}
+
+body {
+  margin: 0;
+background-image:url("space.jfif");
+  font-family: Arial;
+  font-size: 17px;
+}
+.header {
+  background-color:blue;
+  padding: 20px;
+  text-align: center;
+}
+legand{
+color:white;
+}
+mark {
+  background-color: yellow;
+  color:white;
+}
+.Harshit1 {
+  overflow: hidden;
+  background-color: #333;
+}
+.Harshit1 a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.Harshit1 a:hover {
+  background-color: #ddd;
+  color: black;
+}
